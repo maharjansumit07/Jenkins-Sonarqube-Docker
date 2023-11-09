@@ -1,6 +1,6 @@
 pipeline {
   environment {
-    repo = "maharjansumit07/pipeline"
+    repo = "maharjansumit07/jenkins_docker"
   }
   agent any
   stages {
